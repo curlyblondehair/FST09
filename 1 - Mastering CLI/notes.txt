@@ -1,0 +1,23 @@
+mkdir <directory>: 
+Create a new directory.
+
+rm <file>: 
+Remove a file.
+
+touch <file>: 
+Create a new empty file or update the timestamp of an existing file.
+
+ls: 
+List files and directories.
+
+cd <directory>: 
+Change the current directory.
+
+cd ..:
+Change to the parent directory.
+
+clear:
+Clear the terminal screen.
+
+pwd:
+Print the current working directory.
